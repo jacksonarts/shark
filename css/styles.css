@@ -9,19 +9,19 @@ h1 {color: black;
 }
 h2 {color: black;
 }
-#important {
-  color: red;
-}
+
 .line1 {
   color: red;
+}
 .F { color: red;
   background-color: coral;
-  font-style: italic
+  font-style: italic;
 }
 .snippet {float: left;
-color black
-width 20%
+color: black;
+width: 20%;
 }
+
 body {background-color: skyblue;
   font-family: sans-serif;
 }
@@ -36,20 +36,9 @@ float: right;
 background-color: green;
 margin-top: 4px;
 }
-
-@media screen and (min-width: 200px) and (max-width: 450px) {
+@media screen and (min-width: 480px) {
     body {
-        background-color: black;
+        background-color: grey;
         color: white;
     }
-}
-@media screen and (min-width: 600px) {
-  body {
-    background-color: yellowgreen;
-  }
-  .column {
-    width: 220px;
-    float: left;
-    padding: 15px;
-  }
 }
