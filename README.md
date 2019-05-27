@@ -8,11 +8,10 @@
 * cd portfolio-landing
 * open index.html from a browser
 ## Known Bugs
-{This project has no bugs far as i am concerned. }
+{This project has no bugs far as i am concerned.}
 ## Technologies Used
 {html & css}
 ## Support and contact details
 {pull request on this project are highly welcome. any contributions or recommendations are highly welcome, you can reach through personal email on my profile }
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{Francis Kimari}**
+Copyright (c) {2019} **{Francis Kimari}**
