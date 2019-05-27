@@ -1,0 +1,55 @@
+.main {
+  color: blue;
+  border: 2px solid blue;
+  border-radius: 5px;
+    padding: 2px;
+    margin: 1px;
+}
+h1 {color: black;
+}
+h2 {color: black;
+}
+#important {
+  color: red;
+}
+.line1 {
+  color: red;
+.F { color: red;
+  background-color: coral;
+  font-style: italic
+}
+.snippet {float: left;
+color black
+width 20%
+}
+body {background-color: skyblue;
+  font-family: sans-serif;
+}
+.G1 {width: 40%;
+float: left;
+background-color: green;
+margin-top: 4px;
+}
+
+.G2 {width: 40%;
+float: right;
+background-color: green;
+margin-top: 4px;
+}
+
+@media screen and (min-width: 200px) and (max-width: 450px) {
+    body {
+        background-color: black;
+        color: white;
+    }
+}
+@media screen and (min-width: 600px) {
+  body {
+    background-color: yellowgreen;
+  }
+  .column {
+    width: 220px;
+    float: left;
+    padding: 15px;
+  }
+}
